@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://bit.ly/2izTWMa' target='_blank'><img src='http://lh5.googleusercontent.com/-znCJnKj4KAI/WGJbiwfw2hI/AAAAAAAADQU/dwGzNg4qlY0nnZNu599ATBaY0v5cUx-dgCK4B/s640/noel.jpg' width='500px'/><br/>13 Căn hộ Vincity Q7</a>. Hotline: 0937156969. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://bit.ly/2izTWMa' target='_blank'><img src='http://lh5.googleusercontent.com/-znCJnKj4KAI/WGJbiwfw2hI/AAAAAAAADQU/dwGzNg4qlY0nnZNu599ATBaY0v5cUx-dgCK4B/s640/noel.jpg' width='500px'/><br/>Căn hộ Vincity Q7</a>. Hotline: 0937156969. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
